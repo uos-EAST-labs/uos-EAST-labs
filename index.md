@@ -2,6 +2,12 @@
 
 Welcome to the School of EAST computer science department. This site is currently under construction but we're adding stuff all the time so check back later!
 
+### Support or Contact
+
+If you need any help during your visit, teachers, lecturers and technicians can be found all over the place. OR, if its super duper urgent you could
+_Email_
+**(M.Brompton@uos.ac.uk)[mailto:m.brompton@uos.ac.uk]**
+
 ### Digitech
 
 We are working in close collaboration with BT to develop a £9.6 million research and engineering facility at BT’s Adastral Park, which you will be able to benefit from as a student within our School of Engineering, Arts, Science and Technology.
@@ -36,8 +42,6 @@ Matt enjoys many things, including music, reading, and adventure sports - and av
 
 ### Come Study with US!!!
 
-It would be super awesome to have you come and learn to be super computer sciency types with us, 
+It would be super awesome to have you come and learn to make and break computer stuffs with us.
 
-### Support or Contact
 
-If you need any help during your visit, teachers, lecturers and technicians can be found all over the place. OR, if its super duper urgent you could email **(M.Brompton@uos.ac.uk)[mailto:m.brompton@uos.ac.uk]**.
