@@ -6,7 +6,7 @@ Welcome to the School of EAST computer science department. This site is currentl
 
 If you need any help during your visit, teachers, lecturers and technicians can be found all over the place. OR, if its super duper urgent you could
 _Email_
-**(M.Brompton@uos.ac.uk)[mailto:m.brompton@uos.ac.uk]**
+**[M.Brompton@uos.ac.uk](mailto:m.brompton@uos.ac.uk)**
 
 ### Digitech
 
