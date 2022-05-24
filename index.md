@@ -25,13 +25,13 @@ He completed a BSc (Hons) in Network Engineering specialising in Cyber Security 
 
 Dorian also holds qualifications in ITIL and Prince 2 priding himself on his customer service skills. Previous to the University of Suffolk Dorian worked at Colchester Hospital training users in IT and providing support for their e-learning platform
 
-Dorian really enjoys computer games, and being cantankerous.
+Dorian really enjoys computer games, and being curious.
 
 ##### Matthew Brompton
 
 Graduating in 2021 with a degree in Cyber security, Matt has also held roles as an application tester, and full stack intern before deciding to stick with the School of East and assist Dorian in providing the best in computer science facility the East has to offer.
 
-Matt enjoys many things, including music, reading, and adventure sports - and avid archer from Sherwood - Matt's hero is Robin Hood.
+Matt enjoys many things, including music, reading, and adventure sports - and avid archer from Sherwood - Matt's hero is **RobinHood**.
 
 
 ### Come Study with US!!!
@@ -40,4 +40,4 @@ It would be super awesome to have you come and learn to be super computer scienc
 
 ### Support or Contact
 
-If you need any help during your visit, teachers, lecturers and technicians can be found all over the place. OR, if its super duper urgent you could email (M.Brompton@uos.ac.uk)[mailto:m.brompton@uos.ac.uk].
+If you need any help during your visit, teachers, lecturers and technicians can be found all over the place. OR, if its super duper urgent you could email **(M.Brompton@uos.ac.uk)[mailto:m.brompton@uos.ac.uk]**.
